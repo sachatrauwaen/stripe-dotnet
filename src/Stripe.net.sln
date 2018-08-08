@@ -44,11 +44,26 @@ Global
 		{FA3F03CD-6128-4B34-89CA-F5D5DE0991AD}.Release|x64.Build.0 = Release|Any CPU
 		{FA3F03CD-6128-4B34-89CA-F5D5DE0991AD}.Release|x86.ActiveCfg = Release|Any CPU
 		{FA3F03CD-6128-4B34-89CA-F5D5DE0991AD}.Release|x86.Build.0 = Release|Any CPU
+		{75F3AA23-C708-4408-AFD0-D7FA354E031B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F3AA23-C708-4408-AFD0-D7FA354E031B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F3AA23-C708-4408-AFD0-D7FA354E031B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{75F3AA23-C708-4408-AFD0-D7FA354E031B}.Debug|x64.Build.0 = Debug|Any CPU
+		{75F3AA23-C708-4408-AFD0-D7FA354E031B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{75F3AA23-C708-4408-AFD0-D7FA354E031B}.Debug|x86.Build.0 = Debug|Any CPU
+		{75F3AA23-C708-4408-AFD0-D7FA354E031B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F3AA23-C708-4408-AFD0-D7FA354E031B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F3AA23-C708-4408-AFD0-D7FA354E031B}.Release|x64.ActiveCfg = Release|Any CPU
+		{75F3AA23-C708-4408-AFD0-D7FA354E031B}.Release|x64.Build.0 = Release|Any CPU
+		{75F3AA23-C708-4408-AFD0-D7FA354E031B}.Release|x86.ActiveCfg = Release|Any CPU
+		{75F3AA23-C708-4408-AFD0-D7FA354E031B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B6B9F592-4B61-45D0-A9B2-8D1C03C8E81F} = {E3F91159-E7A8-4F44-9DD9-B7D76E2E7542}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00ED6323-0095-4409-ABD2-23A5C0AD3EDD}
 	EndGlobalSection
 EndGlobal
